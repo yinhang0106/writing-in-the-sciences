@@ -7,6 +7,7 @@
   - [1. Introduction](#1-introduction)
   - [2. Examples of What Not to Do](#2-examples-of-what-not-to-do)
   - [3. Overview: Principles of Effective Writing](#3-overview-principles-of-effective-writing)
+  - [4. Cut the Clutter](#4-cut-the-clutter)
 
 ### 1. Introduction
 
@@ -17,7 +18,7 @@ What makes good writing?
 - Good writing is elegant and stylish. (***not so important***)
   - Takes time, revision, and a good editor.
 
-What makes good writer?
+What makes a good writer?
 
 - Having something to say.
 - Logical thinking.
@@ -72,7 +73,7 @@ From Ann Ku.
 
 > "Dysregulation of ***physiologic*** microRNA (miR) activity has been shown to play an important role in tumor initiation and progression, including gliomagenesis. Therefore, ***molecular species*** that can regulate miR activity on their target RNAs without affecting the expression of relevant mature miRs may play equally relevant roles in cancer."
 
-**Note** the use of unnessary jargon and acronyms.
+**Note** the use of unnecessary jargon and acronyms.
 
 > "Dysregulation of physiologic microRNA (***miR***) activity has been shown to play an important role in tumor initiation and progression, including ***gliomagenesis***. Therefore, molecular species that can regulate ***miR*** activity on their target RNAs without affecting the expression of relevant mature ***miRs*** may play equally relevant roles in cancer."
 
@@ -90,6 +91,84 @@ From Ann Ku.
 
 **Summary**:
 
-- Cut unnecessary words and phrases; learn to part with you words.
+- Cut unnecessary words and phrases; learn to part with your words.
 - User the active voice (subject-verb-object).
 - Write with verbs: use strong verbs, avoid turning verbs into nouns, and don't bury the main verb.
+
+### 4. Cut the Clutter
+
+On writing well, William Zinsser:
+
+"The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what -- these are the thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to education and rank."
+
+Example #1:
+
+> "This paper provides an review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges or that demonstrate the successful solutions to the difficulties inherent in biologic research."
+
+Rewrite:
+
+> "This paper reviews the basic tenets of cancer biology study design, using examples to illustrate challenges and solutions."
+
+Example #2:
+
+> "As it is well known, increase athletic activity has been related to a profile of lower cardiovascular risk, lower blood pressure levels, and improved muscular and cardio-respiratory performance."
+
+rewrites:
+
+> "Increased athletic activity is associated with lower cardiovascular risk, blood pressure, and improved fitness."
+
+Better:
+
+> "Increased athletic activity lowers cardiovascular risk, blood pressure, and improves fitness. (stronger level of evidence)"
+
+Example #3:
+
+> "THe experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum."
+
+Rewrite:
+
+> "The experiment provides the first proof of principle for laser-driven particle acceleration in a structure-loaded vacuum."
+
+Example #4:
+
+> "Brain injury incidence shows two peak periods in almost all reports: rates are the highest in young people and the elderly."
+
+Rewrite:
+
+> "Brain injury incidence peaks in the young and the elderly."
+
+Common clutter:
+
+1. Dead weight words.
+
+   - As it is well known
+   - As it has been shown
+   - It can be regarded as
+   - It should be emphasized that
+
+2. Empty words.
+
+   - basic tenets
+   - methodologic
+   - important
+
+3. Long words that could be short.
+
+   - muscular and cardio-respiratory performance
+
+4. Unnecessary jargon and acronyms.
+
+   - Gliomagenesis
+   - miR
+
+5. Repetitive words.
+
+   - studies/examples
+   - illustrate/demonstrate
+   - challenges/difficulties
+   - successful solutions/solutions
+
+6. Adverbs
+  
+   - very, really, quite, rather, somewhat, pretty, fairly, actually, basically, essentially, virtually, clearly, obviously, naturally, definitely, positively, absolutely, seriously, and importantly, etc.
+
